@@ -13,7 +13,7 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1550" height="400" fill="#F1F1F1"/>
+  <rect width="1550" height="400" fill="#FFFFFF"/>
 
   <!-- ===== LEFT: Official CNCG Logo (inline, unmodified paths) ===== -->
   <g transform="translate(20, 15) scale(0.74)">
